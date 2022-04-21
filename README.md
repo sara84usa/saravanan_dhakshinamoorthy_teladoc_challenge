@@ -6,7 +6,4 @@ mvn clean test
 
 Once the execution completes report & log will be generated in below folder.
 
-Report: target/report/ExtentSpark.html  
-open the ExtentSpark.html in chrome browser
-
 Log: target/logs
